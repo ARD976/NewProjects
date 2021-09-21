@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="aman">Name the movie</string>
+    <string name="bio">The Suicide Squad is a 2021 American superhero film based on DC Comics featuring the team Suicide Squad.
+        \nProduced by DC Films, Atlas Entertainment, and The Safran Company, and distributed by Warner Bros. Pictures, it is a standalone sequel to Suicide Squad (2016) and the tenth film in the DC Extended Universe (DCEU).
+        \nIt was written and directed by James Gunn and stars an ensemble cast including Margot Robbie, Idris Elba, John Cena, Joel Kinnaman, Sylvester Stallone, Viola Davis, David Dastmalchian, Daniela Melchior, Michael Rooker, Jai Courtney, Peter Capaldi, Alice Braga, and Pete Davidson.
+        \nIn the film, a task force of convicts known as the Suicide Squad are sent to the island nation of Corto Maltese to destroy evidence of the giant alien starfish Starro the Conqueror.</string>
+    <string name="what_s_your_fav_movie">What\'s your fav movie</string>
+    <string name="done">done</string>
+</resources>
